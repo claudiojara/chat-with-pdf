@@ -67,14 +67,11 @@ export const POST: APIRoute = async ({ request }) => {
     try {
         fs.writeFile(`${outputDir}/${id}.txt`, text, 'utf-8')
         //fs.writeFile(`${outputDir}/${id}-origin.txt`, data, 'utf-8')
-        respuesta = "ok"
     } catch (e: any) {
         respuesta = (e as Error).message
     }
 
     return new Response(JSON.stringify({
-        respuesta,
-        outputDir,
         id,
         url,
         pages
