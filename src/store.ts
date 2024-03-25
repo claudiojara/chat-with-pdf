@@ -7,18 +7,18 @@ export const APP_STATUS = {
     ERROR: -1
 }
 
-/*
+
 export const appStatus = writable(APP_STATUS.INIT)
 export const appStatusInfo = writable({ id: '', url: '', pages: 0 })
-*/
 
+/*
 export const appStatus = writable(APP_STATUS.CHAT_MODE)
 export const appStatusInfo = writable({
     id: "b4557dfcf3fe0c9059d2e415efdcc84b",
     url: "https://res.cloudinary.com/dmyopjf0d/image/upload/v1711115231/pdf/ijjf4dypwcsplxfxyyxn.pdf",
     pages: 1
 })
-
+*/
 
 
 export const setAppStatusLoading = () => {
