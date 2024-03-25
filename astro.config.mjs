@@ -8,7 +8,8 @@ import svelte from "@astrojs/svelte";
 export default defineConfig({
   integrations: [tailwind(), svelte()],
   output: 'server',
-  adapter: netlify({
-    edgeMiddleware: true
-  }),
+  //adapter: netlify({
+  //  edgeMiddleware: true
+  //}),
+  adapter: netlify(),
 });
