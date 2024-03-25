@@ -50,10 +50,10 @@ export const GET: APIRoute = async ({ request }) => {
 
             sendEvent('__END__')
         })
-    } catch (e) {
+    } catch (e: unknown) {
         return responseSSE({ request }, async (sendEvent) => {
-            sendEvent('ERROR')
-            sendEvent('__END__')
-        })
+            sendEvent(`ERROR: ${(e as Error).message}`);
+            sendEvent('__END__');
+        });
     }
 }
