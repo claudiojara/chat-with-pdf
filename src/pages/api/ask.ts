@@ -26,7 +26,7 @@ export const GET: APIRoute = async ({ request }) => {
     }
 
     try {
-        const txt = await readFile(`text/${id}.txt`, 'utf-8')
+        const txt = await readFile(`/var/task/public/text/${id}.txt`, 'utf-8')
 
         return responseSSE({ request }, async (sendEvent) => {
             const response = await openai.chat.completions.create({
