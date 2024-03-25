@@ -11,7 +11,7 @@ cloudinary.config({
 });
 
 //const outputDir = path.join(process.cwd(), 'public/text');
-const outputDir = ('text');
+const outputDir = ('/text');
 
 
 
