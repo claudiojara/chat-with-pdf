@@ -1,0 +1,166 @@
+M
+METROGAS
+METROGAS S.A.
+RUT: 96.772.460-K
+GIRO: Distribución y Comercialización de
+Gas, Petróleo y Otros Combustibles.
+CASA MATRIZ Y ATENCIÓN DE PÚBLICO:
+El Regidor N°54 Las Condes.
+Santiago. Telefono: 600 337 8000.
+SUCURSAL CON ATENCIÓN A PUBLICO
+Av. Eduardo Frei Montalva N° 340,
+Local N° 3, Rancagua
+SUCURSALES SIN ATENCIÓN A PÚBLICO:
+Antofagasta N° 3424, Estación Central.
+Camino El Milagro N° 470, Maipú.
+Avenida Chena N°11550, San Bernardo.
+Las Palmas N° 385, Peñalolén.
+Avenida Los Leones N° 2209, Providencia.
+Número de Cliente: 500012263
+Sr (es): ACMANET S.A.
+CAMINO EL MILAGRO 455
+MAIPU, SANTIAGO
+Giro: FÁBRICA DE MALLAS DE ACERO
+Rut: 96896610-3
+Fecha Emisión: 02-07-2021
+Dir. Com. CAMINO EL MILAGRO 455
+Comuna: MAIPU Ciudad: SANTIAGO
+N° Interno: 100004036693
+Detalle de Consumo
+Dirección Suministro: CAMINO EL MILAGRO 455 MAIPU SANTIAGO
+Periodo de Consumo: 01.06.2021 AL 30.06.2021
+0049-IND00004
+R.U.T.: 96.722.460-K
+FACTURA ELECTRÓNICA
+N° 872396
+S.I.I. - SANTIAGO ORIENTE
+SERVICIO GAS GRAN CLIENTE
+GAS NATURAL
+P.C.S. nom 9.300 kcal/m3s
+Equipo de Medición
+Días Calculados: 30
+Lectura Actual
+Lectura Anterior
+Número de Serie
+8Z0009713471998
+8Z0009713471998
+Propiedad
+Tarifa
+METROGAS GNISA
+METROGAS GNISA
+8Z0009713471998 METROGAS GNISA
+8Z0009713471998 METROGAS GNISA
+8Z0009713471998
+METROGAS GNISA
+Fecha
+03.06.2021
+10.06.2021
+17.06.2021
+24.06.2021
+30.06.2021
+Lect. (m3) Fecha
+2.235.989 31.05.2021
+2.240.675 03.06.2021
+2.245.695 10.06.2021
+2.249.788 17.06.2021
+2.254.359 24.06.2021
+Lect. (m3)
+Consumo
+Leído (m3)
+Fecha Estimada prox. Lectura: 30.07.2021
+Factores de Correción
+Consumo
+Fc.PyT
+Fc.PCal
+Equiv.(m3s)
+2.233.252
+2.737
+1,910880
+0,999430
+5.227,09
+2.235.989
+4.686 1,910880
+0,999430
+8.949,27
+2.240.675
+5.020 1,910880
+0,999430
+9,587,14
+2.245.695
+2.249.788
+4.093 1,910880
+0,999430
+7.816,77
+4.571
+1,910880
+0,999430
+8.729,65
+Total
+40.309,92
+Detalle de Cuenta
+Infórmese
+O AUTOMATICO
+CORRIENTE
+PAC
+Gráfico de Consumo
+CONSUMO ÚLTIMOS 13 MESES (m3s)
+16,177
+Si aún no tienes
+Pago Automático
+Inscribelo hoy con
+tu banco y asegura
+pago oportuno
+de tu cuenta
+Cómodo, Seguro y Simple
+Servicio de Gas
+36,942
+Gas consumido (40.309,92 m3s)
+27,707
+$
+15.916.864
+LB,472
+TOTAL NETO
+$
+15.916.864
+9,237
+IMPUESTOS
+IVA
+TOTAL FACTURA
+TOTAL A PAGAR
+SON: DIECIOCHO MILLONES NOVECIENTOS
+CUARENTA Y UN MIL SESENTA Y OCHO PESOS
+Timbre Electronico SII
+Res. 80 del 2014
+Verifique documento: www.sii.cl o www.metrogas.cl
+$
+3.024.204
+$
+18.941.068
+$
+18.941.068
+Ingeniero de Proyectos
+Nombre: Pablo Moscoso Espinoza
+Fono Oficina: (56 2) 2339 2765
+Fono Celular: (56 9) 9047 4116
+Correo Electrónico:
+pmoscoso@metrogas.cl
+Cobro por corte de suministro
+y reposición del servicio
+industrial en
+2.5 UF
+Ingrese a www.metrogas.cl/industria, y regístrese en nuestro sitio,
+donde podrá acceder a información relevante de su empresa.
+Ultimo Pago Realizado $ 18.851.466 el
+14.06.2021 (PAGO VENTANILLA BANCO CHILE)
+Cupón de Pago
+Número de Cliente
+Factura de venta
+Documento de pago
+Fecha de vencimiento
+Total a pagar
+500012263
+872396
+100004036693-1
+22-07-2021
+$ 18.941.068
+F500012263018941068100004036693100220721
