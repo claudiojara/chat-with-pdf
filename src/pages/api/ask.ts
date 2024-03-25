@@ -24,7 +24,7 @@ export const GET: APIRoute = async ({ request }) => {
             response: 'Missing question'
         }), { status: 400 })
     }
-    const txt = await readFile(`public/text/${id}.txt`, 'utf-8')
+    const txt = await readFile(`text/${id}.txt`, 'utf-8')
 
     return responseSSE({ request }, async (sendEvent) => {
         const response = await openai.chat.completions.create({

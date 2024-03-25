@@ -10,7 +10,9 @@ cloudinary.config({
     api_secret: import.meta.env.CLOUDINARY_SECRET
 });
 
-const outputDir = path.join(process.cwd(), 'public/text');
+//const outputDir = path.join(process.cwd(), 'public/text');
+const outputDir = ('text');
+
 
 
 const uploadStream = async (buffer: Uint8Array, options: {
